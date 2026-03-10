@@ -1,0 +1,9 @@
+main:
+  - title: Home
+    url: /
+
+  - title: Archive
+    url: /archive/
+
+  - title: About
+    url: /about/
